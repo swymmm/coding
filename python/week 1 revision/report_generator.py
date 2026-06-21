@@ -35,3 +35,5 @@ print(f"Average Marks: {avg}")
 print(f"Grade: {grade}")
 if grade!="Fail":
     print("Congratulations!! You passed the exam.")
+else:
+    print("Sorry!! You failed the exam.")
